@@ -12,4 +12,4 @@
     <select {{ $attributes($defaults) }}>
         {{ $slot }}
     </select>
-<x-forms.field>
+</x-forms.field>
